@@ -1,0 +1,12 @@
+credits:
+dark_ambient.mp3 by vinrax, https://opengameart.org/content/dark-ambient-1
+PlayerRaycast by Stephen Brewer, he doesn't get a link
+misc-sfx-pack by Timopy, https://opengameart.org/content/misc-sfx-pack
+footsteps, wispfail by Blender Foundation, https://opengameart.org/content/grass-foot-step-sounds-yo-frankie
+Wind and Tree by Alexandr Zhelanov, https://opengameart.org/content/wind-and-tree
+soundscape-find-nothing by Tri-Tachyon - https://soundcloud.com/tri-tachyon/albums
+Rising Moon by RandomMind, https://opengameart.org/content/fantasy-rising-moon
+Interaction by qubodup/Iwan Gabovitch - qubodup.net - qubodup@gmail.com
+End Scene Ambiance by Luke.RUSTLTD, https://opengameart.org/users/lukerustltd
+Portal SFX by spookymodem, https://opengameart.org/content/magic-shield
+Voice Actor: Christian Bryan-McGahee
